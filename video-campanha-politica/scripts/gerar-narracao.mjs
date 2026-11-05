@@ -6,8 +6,34 @@
 // Config de voz em audio/config.json (voiceId, modelId, voiceSettings, languageCode).
 import { ElevenLabsClient } from '@elevenlabs/elevenlabs-js';
 import { createWriteStream, mkdirSync, readFileSync, existsSync } from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { Readable } from 'node:stream';
 import { pipeline } from 'node:stream/promises';
+
+// CHAVE ELEVENLABS — local canônico: config/agente.json da casa (acha SUBINDO a árvore,
+// funciona do projeto e do pacote instalado). Depois: audio/config.json do projeto → env.
+// PROIBIDO caçar chave em outro lugar — sem chave, o erro já ensina onde colar.
+function chaveElevenlabs() {
+  const E_PLACEHOLDER = (v) => !v || /^COLE_/i.test(v);
+  if (config.apiKey && !E_PLACEHOLDER(config.apiKey)) return config.apiKey;
+  let d = path.dirname(fileURLToPath(import.meta.url));
+  for (let i = 0; i < 8; i++) {
+    const p = path.join(d, 'config', 'agente.json');
+    if (existsSync(p)) {
+      try {
+        const k = JSON.parse(readFileSync(p, 'utf8'))?.elevenlabs?.apiKey;
+        if (!E_PLACEHOLDER(k)) return k;
+      } catch { }
+    }
+    const pai = path.dirname(d);
+    if (pai === d) break;
+    d = pai;
+  }
+  if (process.env.ELEVENLABS_API_KEY) return process.env.ELEVENLABS_API_KEY;
+  console.error('SEM CHAVE ElevenLabs. Cole a sua UMA vez em config/agente.json → "elevenlabs"."apiKey" (ou no audio/config.json do projeto).');
+  process.exit(1);
+}
 
 const arg = (nome, padrao) => {
   const i = process.argv.indexOf(`--${nome}`);
@@ -21,7 +47,7 @@ const outDir = arg('out', 'audio/narracao');
 const blocos = JSON.parse(readFileSync(blocosPath, 'utf8'));
 mkdirSync(outDir, { recursive: true });
 
-const client = new ElevenLabsClient({ apiKey: config.apiKey || process.env.ELEVENLABS_API_KEY });
+const client = new ElevenLabsClient({ apiKey: chaveElevenlabs() });
 
 for (const b of blocos) {
   const out = `${outDir}/${b.arquivo}.mp3`;

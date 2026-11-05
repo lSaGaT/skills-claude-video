@@ -1,10 +1,33 @@
 // testar-elevenlabs.mjs — valida a chave da ElevenLabs contra vozes/modelos conhecidos
-// Uso: ELEVENLABS_API_KEY=sk_... node testar-elevenlabs.mjs
-// (ou edite a chave abaixo). Consome ~40 caracteres de cota.
+// Uso: node testar-elevenlabs.mjs   (lê a chave do local canônico: config/agente.json
+// da casa — acha subindo a árvore — ou env ELEVENLABS_API_KEY). Consome ~40 chars de cota.
 import { ElevenLabsClient } from '@elevenlabs/elevenlabs-js';
+import { readFileSync, existsSync } from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const apiKey = process.env.ELEVENLABS_API_KEY || 'COLE_SUA_CHAVE_AQUI';
-if (apiKey === 'COLE_SUA_CHAVE_AQUI') { console.log('Defina ELEVENLABS_API_KEY ou edite o script.'); process.exit(1); }
+// chave do local canônico (config/agente.json subindo a árvore) → env → erro instruído
+function chaveElevenlabs() {
+  const E_PLACEHOLDER = (v) => !v || /^COLE_/i.test(v);
+  let d = path.dirname(fileURLToPath(import.meta.url));
+  for (let i = 0; i < 8; i++) {
+    const p = path.join(d, 'config', 'agente.json');
+    if (existsSync(p)) {
+      try {
+        const k = JSON.parse(readFileSync(p, 'utf8'))?.elevenlabs?.apiKey;
+        if (!E_PLACEHOLDER(k)) return k;
+      } catch { }
+    }
+    const pai = path.dirname(d);
+    if (pai === d) break;
+    d = pai;
+  }
+  if (process.env.ELEVENLABS_API_KEY) return process.env.ELEVENLABS_API_KEY;
+  console.error('SEM CHAVE ElevenLabs. Cole a sua UMA vez em config/agente.json → "elevenlabs"."apiKey".');
+  process.exit(1);
+}
+
+const apiKey = chaveElevenlabs();
 
 const client = new ElevenLabsClient({ apiKey });
 
