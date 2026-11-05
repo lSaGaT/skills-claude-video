@@ -1,0 +1,50 @@
+{
+  "_comentario": "Modelo de roteiro em beats (formato A/B). 'fala' vai para o TTS; 'legenda' é a linha de 2-3 palavras que aparece na tela; 'cena' descreve o gesto visual. A duração de cada beat vem do áudio final, não deste arquivo.",
+  "tema": "nome-do-projeto",
+  "formato": "A",
+  "hook": "Seus agentes de IA esquecem tudo entre uma sessão e outra.",
+  "beats": [
+    {
+      "id": 1,
+      "papel": "dor",
+      "fala": "Seus agentes de IA esquecem tudo entre uma sessão e outra.",
+      "legenda": "ESQUECEM TUDO",
+      "cena": "README no topo, sem caixa de destaque; só a legenda entra."
+    },
+    {
+      "id": 2,
+      "papel": "nome",
+      "fala": "Chama-se ai-memory-installer. Um instalador Bash que sobe a memória num VPS Ubuntu.",
+      "legenda": "CHAMA-SE AI-MEMORY",
+      "cena": "scroll até o H1; caixa amarela no parágrafo de descrição."
+    },
+    {
+      "id": 3,
+      "papel": "promessa",
+      "fala": "Com Cloudflare Tunnel e hardening automático, em dois comandos.",
+      "legenda": "DOIS COMANDOS",
+      "cena": "scroll até o bloco de instalação; caixa no comando."
+    },
+    {
+      "id": 4,
+      "papel": "prova",
+      "fala": "Claude Code, Codex, Cursor e Grok passam a dividir a mesma memória.",
+      "legenda": "QUATRO AGENTES",
+      "cena": "caixa na lista de compatibilidade, uma linha por agente."
+    },
+    {
+      "id": 5,
+      "papel": "ressalva",
+      "fala": "Ele testa sua chave SSH antes de desligar a senha. Você nunca fica trancado fora.",
+      "legenda": "NAO FICA TRANCADO",
+      "cena": "scroll até o trecho de segurança; caixa na frase exata."
+    },
+    {
+      "id": 6,
+      "papel": "fecho",
+      "fala": "Link fixado no primeiro comentário.",
+      "legenda": "NOS COMENTARIOS",
+      "cena": "cartão final: pílula do repo + URL + 'NOS COMENTARIOS'."
+    }
+  ]
+}

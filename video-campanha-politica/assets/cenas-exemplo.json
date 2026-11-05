@@ -1,0 +1,98 @@
+[
+  {
+    "audio": "audio/narracao/01-gancho.mp3",
+    "tipo": "titulo",
+    "heroi": { "texto": "RECEBEU PRIMEIRO.", "cor": "destaque", "t0": 0.02 },
+    "linhas": [
+      { "texto": "VACINOU DEPOIS.", "cor": "branco", "t0": 0.30 },
+      { "texto": "E A CULPA NÃO FOI DELE.", "cor": "verde", "t0": 0.50 }
+    ],
+    "pergunta": { "texto": "QUEM TRAVOU?", "cor": "branco", "t0": 0.70 }
+  },
+  {
+    "audio": "audio/narracao/02-ranking.mp3",
+    "tipo": "lista",
+    "cabecalho": "OS 5 MAIS RÁPIDOS DO OCIDENTE",
+    "itens": ["REINO UNIDO — 08/12", "ESTADOS UNIDOS — 14/12", "CANADÁ — 14/12", "ISRAEL — 19/12", "ALEMANHA — 26/12"],
+    "remate": { "texto": "E O BRASIL?", "cor": "destaque", "t0": 0.55 },
+    "carimbos": [
+      { "imagem": "fontes/05-g1-20201119-lote-120-mil-doses-coronavac.png", "x": 330, "y": 890, "largura": 550, "t0": 0.60, "rotacao": -4 },
+      { "imagem": "fontes/04-agenciabrasil-20201119-primeiro-lote-coronavac-120-mil.png", "x": 770, "y": 950, "largura": 550, "t0": 0.68, "rotacao": 3 }
+    ],
+    "final": { "texto": "ANTES DE TODOS ELES.", "t0": 0.72 }
+  },
+  {
+    "audio": "audio/narracao/03-governo-correu.mp3",
+    "tipo": "checklist",
+    "cabecalho": "O GOVERNO FEZ A PARTE DELE",
+    "itens": ["JUN/2020 · VERBA LIBERADA", "JUN/2020 · CONTRATO ASSINADO", "OUT/2020 · IMPORTAÇÃO AUTORIZADA", "19/11/2020 · 120 MIL DOSES EM GUARULHOS"],
+    "carimbos": [
+      { "imagem": "fontes/01-g1-20200806-bolsonaro-assina-mp-100-milhoes-doses-oxford.png", "x": 330, "y": 1180, "largura": 550, "t0": 0.12, "rotacao": -5 },
+      { "imagem": "fontes/02-senado-20200925-mp-liberam-2-5-bilhoes-vacinas.png", "x": 760, "y": 1245, "largura": 550, "t0": 0.22, "rotacao": 4 }
+    ],
+    "linhasFinais": [
+      { "texto": "A BOLA ESTAVA COM QUEM LIBERA:", "cor": "branco", "t0": 0.60 },
+      { "texto": "A ANVISA.", "cor": "vermelho", "t0": 0.64, "grande": true }
+    ]
+  },
+  {
+    "audio": "audio/narracao/04-anvisa.mp3",
+    "tipo": "contador",
+    "cabecalho": ["DIAS ENTRE A CHEGADA DA DOSE", "E A PRIMEIRA APLICAÇÃO"],
+    "rotulo": "BRASIL",
+    "valor": 59,
+    "sufixo": "DIAS",
+    "itens": [
+      { "texto": "REINO UNIDO: 5 DIAS", "t0": 0.30 },
+      { "texto": "EUA: NO DIA SEGUINTE", "t0": 0.44 }
+    ],
+    "destaques": [
+      { "texto": "2 MESES. VACINA PARADA", "t0": 0.58 },
+      { "texto": "NO DEPÓSITO.", "t0": 0.58 }
+    ],
+    "carimbos": [
+      { "imagem": "fontes/06-senado-20210118-anvisa-aprova-uso-emergencial.png", "x": 540, "y": 1130, "largura": 820, "t0": 0.76, "rotacao": -3 }
+    ]
+  },
+  {
+    "audio": "audio/narracao/05-esquerda.mp3",
+    "tipo": "empilhada",
+    "fundo": "escuro",
+    "elementos": [
+      { "tipo": "linha", "texto": "E OS GOVERNOS DE ESQUERDA", "cor": "branco", "t0": 0.04 },
+      { "tipo": "linha", "texto": "DA AMÉRICA LATINA?", "cor": "branco", "t0": 0.04 },
+      { "tipo": "pill", "texto": "VENEZUELA (MADURO · LULA): +32 DIAS", "t0": 0.16 },
+      { "tipo": "pill", "texto": "CUBA: +4 MESES", "t0": 0.27 },
+      { "tipo": "linha", "texto": "NINGUÉM CHAMOU MADURO", "cor": "apoioClaro", "t0": 0.38 },
+      { "tipo": "linha", "texto": "DE GENOCIDA.", "cor": "apoioClaro", "t0": 0.38 },
+      { "tipo": "citacao", "texto": "“ELE ATRASOU A VACINA!”", "autor": "A ESQUERDA, SEMPRE", "t0": 0.50 }
+    ],
+    "remate": { "texto": "OS NÚMEROS OFICIAIS DIZEM O CONTRÁRIO.", "t0": 0.66 },
+    "carimbos": [
+      { "imagem": "fontes/07-senado-20210304-senadores-cobram-anvisa-aprovacao-rapida.png", "x": 330, "y": 1450, "largura": 540, "t0": 0.66, "rotacao": -6 },
+      { "imagem": "fontes/08-ictq-cpi-covid-cobrara-explicacoes-anvisa-demora.png", "x": 750, "y": 1490, "largura": 540, "t0": 0.74, "rotacao": 5 }
+    ],
+    "palavraFinal": { "texto": "PONTO.", "t0": 0.85 }
+  },
+  {
+    "audio": "audio/narracao/06-motivacional.mp3",
+    "tipo": "titulo",
+    "heroi": { "texto": "CHEGA DE ACREDITAR", "cor": "branco", "t0": 0.05 },
+    "linhas": [
+      { "texto": "EM QUEM VIVE DE MENTIRA.", "cor": "branco", "t0": 0.05 },
+      { "texto": "O BRASIL É DE QUEM TRABALHA,", "cor": "destaque", "t0": 0.35 },
+      { "texto": "PRODUZ E RESOLVE.", "cor": "destaque", "t0": 0.55 }
+    ]
+  },
+  {
+    "audio": "audio/narracao/07-campanha.mp3",
+    "tipo": "campanha",
+    "linhasTopo": [
+      { "texto": "PARE DE SER ENGANADO", "t0": 0.05 },
+      { "texto": "PELA ESQUERDA.", "t0": 0.05 }
+    ],
+    "voto": { "legenda": "V O T E", "numero": "22", "t0": 0.28 },
+    "arte": { "legenda": "FLÁVIO BOLSONARO · PRESIDENTE", "t0": 0.50 },
+    "pill": { "texto": "O BRASIL VAI VENCER!", "t0": 0.74 }
+  }
+]

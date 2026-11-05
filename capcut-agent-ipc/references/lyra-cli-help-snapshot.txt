@@ -1,0 +1,40 @@
+Usage:
+  lyra-cli-ipc canvas node create --input <json|@file> [options]
+  lyra-cli-ipc canvas node create --type <text|image|video|audio|document|frame> [options]
+  lyra-cli-ipc canvas node create --asset-id <asset-uuid>
+    --expected-asset-revision <revision> --expected-canvas-revision <revision> [options]
+
+Options:
+  --input <json|@file>           Node object containing type, title,
+                                 generation, and reference_object_ids.
+  --type <type>                  text, image, video, audio, document, or frame.
+  --asset-id <asset-uuid>        Place a current-project Asset on Canvas.
+  --expected-asset-revision <n>  Required with --asset-id.
+  --expected-canvas-revision <n> Required with --asset-id.
+  --parent-id <id>               Optional PAGE or FRAME parent.
+  --x/--y/--width/--height       Optional initial layout.
+  --rotation <number>            Optional initial rotation.
+  --title <text>                 Set the node title.
+  --generation <json>            Set generation metadata.
+  --reference <object-id>        Add a reference node; repeatable.
+  --project-id <id>              Assert the Session-bound Canvas id.
+  --output <text|json>           Select the output format.
+  --timeout <1..300>             Set the Canvas RPC timeout in seconds.
+  --dry-run                      Preview without creating the node.
+  -h, --help                     Show this help locally.
+===TIMELINE===
+Usage: lyra-cli-ipc timeline add-draft --asset-id <UUID> [options]
+
+  --representation nested|expanded   Default: nested (native subdraft).
+  --placement append|at              Default: append after all tracks.
+  --position-us <integer>            Required with at; microseconds.
+  --collision ripple|overwrite       Required with at; affects all tracks.
+  --expected-asset-revision <n>       Assert source Asset revision.
+  --expected-timeline-revision <n>    Assert revision returned by dry-run.
+  --target-timeline-id <id>           Assert current focused timeline ID.
+  --request-id <id>                  Retry identity (same inputs only).
+  --dry-run                         Validate without modifying the timeline.
+  --output json|text                 Default: json.
+
+append rejects position-us/collision. Execution requires a Session capability
+and its bound project to be open in Native. Conflicts fail without partial edits.
