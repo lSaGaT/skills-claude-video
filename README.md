@@ -4,50 +4,52 @@ Catálogo das **310 skills** de produção de vídeo/criação que vivem nesta m
 
 Cada skill tem ficha completa: **o que cria**, **chaves técnicas**, **origem** e **como instalar** — nas páginas de `catalogo/`.
 
-## Skills autorais 🏠 (corpo completo neste repo)
+## Skills autorais 🏠
 
-Nascidas em produção real de vídeo com agentes (Claude/ZCode SDK). Clone e instale:
+Nascidas em produção real de vídeo com agentes (Claude/ZCode SDK):
 
 | Suíte CapCut (draft JSON + app aberto) | O que faz |
 |---|---|
-| [`capcut-agent-ipc`](capcut-agent-ipc/SKILL.md) | Controla o CapCut Desktop aberto via IPC nativo (lyra-cli-ipc) — canvas nodes, timeline add-draft, shadow drafts. |
-| [`capcut-audio`](capcut-audio/SKILL.md) | Áudio em drafts CapCut por JSON — música/SFX, volume, fades e múltiplas tracks. |
-| [`capcut-browser`](capcut-browser/SKILL.md) | Opera o browser gerenciado do agente do CapCut — abrir URL, snapshot acessível, clicar/preencher/rolar. |
-| [`capcut-draft-core`](capcut-draft-core/SKILL.md) | Ler/validar/criar/editar projetos CapCut (draft_content.json) programaticamente em Python. |
-| [`capcut-effects-filters`](capcut-effects-filters/SKILL.md) | Efeitos visuais em drafts CapCut — transições, efeitos de cena, filtros, animações in/out/combo, cor e matting. |
-| [`capcut-media-export`](capcut-media-export/SKILL.md) | Probe de mídia e exportação do CapCut 9.7 — ffmpeg/ffprobe embutidos + automação de export por loop de visão. |
-| [`capcut-text-captions`](capcut-text-captions/SKILL.md) | Texto e legendas em drafts CapCut — segmentos estilizados, estilos por trecho e importação de SRT. |
-| [`capcut-timeline-editing`](capcut-timeline-editing/SKILL.md) | Editar timeline de draft CapCut por JSON — mídia, split, trim, velocidade, transform e volume. |
+| [`capcut-agent-ipc`](skills/autorais-capcut/capcut-agent-ipc/SKILL.md) | Controla o CapCut Desktop aberto via IPC nativo (lyra-cli-ipc) — canvas nodes, timeline add-draft, shadow drafts. |
+| [`capcut-audio`](skills/autorais-capcut/capcut-audio/SKILL.md) | Áudio em drafts CapCut por JSON — música/SFX, volume, fades e múltiplas tracks. |
+| [`capcut-browser`](skills/autorais-capcut/capcut-browser/SKILL.md) | Opera o browser gerenciado do agente do CapCut — abrir URL, snapshot acessível, clicar/preencher/rolar. |
+| [`capcut-draft-core`](skills/autorais-capcut/capcut-draft-core/SKILL.md) | Ler/validar/criar/editar projetos CapCut (draft_content.json) programaticamente em Python. |
+| [`capcut-effects-filters`](skills/autorais-capcut/capcut-effects-filters/SKILL.md) | Efeitos visuais em drafts CapCut — transições, efeitos de cena, filtros, animações in/out/combo, cor e matting. |
+| [`capcut-media-export`](skills/autorais-capcut/capcut-media-export/SKILL.md) | Probe de mídia e exportação do CapCut 9.7 — ffmpeg/ffprobe embutidos + automação de export por loop de visão. |
+| [`capcut-text-captions`](skills/autorais-capcut/capcut-text-captions/SKILL.md) | Texto e legendas em drafts CapCut — segmentos estilizados, estilos por trecho e importação de SRT. |
+| [`capcut-timeline-editing`](skills/autorais-capcut/capcut-timeline-editing/SKILL.md) | Editar timeline de draft CapCut por JSON — mídia, split, trim, velocidade, transform e volume. |
 
 | Ofícios & pipelines | O que faz |
 |---|---|
-| `cel_iphone_html` ([SKILL.md](cel_iphone_html/SKILL.md)) | Réplica fiel de iPhone em HTML/three.js a partir de GLB de teardown — geometria extraída é a fonte da verdade. |
-| `reverse-engineer-anything` ([SKILL.md](reverse-engineer-anything/SKILL.md)) | Engenharia reversa de alvos shipped (nativo, Electron/ASAR, APK, firmware, capturas de rede) via MCP REA (207 ferramentas). |
-| `heygen-avatar` ([SKILL.md](heygen-avatar/SKILL.md)) | Cria avatar HeyGen persistente (rosto + voz) por prompt ou foto, salvo em AVATAR-<NOME>.md. |
-| `heygen-translate` ([SKILL.md](heygen-translate/SKILL.md)) | Traduz/dubla vídeo existente em 175+ línguas com voice cloning e lip-sync. |
-| `heygen-video` ([SKILL.md](heygen-video/SKILL.md)) | Gera vídeo de apresentador HeyGen via pipeline v3 Video Agent (Frame Check, prompt craft, avatar/voz). |
-| `heygen-nanoclaw` ([SKILL.md](heygen-nanoclaw/SKILL.md)) | Receita container NanoClaw para vídeo com avatar HeyGen via CLI (avatar→voz→script→create→poll→download). |
-| `reels-dev-tech` ([SKILL.md](reels-dev-tech/SKILL.md)) | produz Reels 9:16 dev/tech PT-BR (padrão devjuniors7) — README scroll, moldura neon, legenda cinética, 25-35 beats de 1s. |
-| `video-campanha-politica` ([SKILL.md](video-campanha-politica/SKILL.md)) | pipeline PT-BR completo de Reels 9:16 narrado: roteiro em beats → ElevenLabs → canvas/ffmpeg → QA. |
-| `text-to-speech` ([SKILL.md](text-to-speech/SKILL.md)) | TTS ElevenLabs — texto→fala em 90+ línguas com modelos, vozes, settings e efeitos de áudio. |
-| `watch` ([SKILL.md](watch/SKILL.md)) | assiste vídeo (URL/local): frames auto-escala + transcrição (captions/WhisperX/Groq/OpenAI) ou Gemini, e responde perguntas sobre o conteúdo. |
+| [`cel_iphone_html`](skills/autorais-pipelines/cel_iphone_html/SKILL.md) | Réplica fiel de iPhone em HTML/three.js a partir de GLB de teardown — geometria extraída é a fonte da verdade. |
+| [`reverse-engineer-anything`](skills/autorais-pipelines/reverse-engineer-anything/SKILL.md) | Engenharia reversa de alvos shipped (nativo, Electron/ASAR, APK, firmware, capturas de rede) via MCP REA (207 ferramentas). |
+| [`heygen-avatar`](skills/autorais-pipelines/heygen-avatar/SKILL.md) | Cria avatar HeyGen persistente (rosto + voz) por prompt ou foto, salvo em AVATAR-<NOME>.md. |
+| [`heygen-translate`](skills/autorais-pipelines/heygen-translate/SKILL.md) | Traduz/dubla vídeo existente em 175+ línguas com voice cloning e lip-sync. |
+| [`heygen-video`](skills/autorais-pipelines/heygen-video/SKILL.md) | Gera vídeo de apresentador HeyGen via pipeline v3 Video Agent (Frame Check, prompt craft, avatar/voz). |
+| [`heygen-nanoclaw`](skills/autorais-pipelines/heygen-nanoclaw/SKILL.md) | Receita container NanoClaw para vídeo com avatar HeyGen via CLI (avatar→voz→script→create→poll→download). |
+| [`reels-dev-tech`](skills/autorais-pipelines/reels-dev-tech/SKILL.md) | produz Reels 9:16 dev/tech PT-BR (padrão devjuniors7) — README scroll, moldura neon, legenda cinética, 25-35 beats de 1s. |
+| [`video-campanha-politica`](skills/autorais-pipelines/video-campanha-politica/SKILL.md) | pipeline PT-BR completo de Reels 9:16 narrado: roteiro em beats → ElevenLabs → canvas/ffmpeg → QA. |
+| [`text-to-speech`](skills/autorais-pipelines/text-to-speech/SKILL.md) | TTS ElevenLabs — texto→fala em 90+ línguas com modelos, vozes, settings e efeitos de áudio. |
+| [`watch`](skills/autorais-pipelines/watch/SKILL.md) | assiste vídeo (URL/local): frames auto-escala + transcrição (captions/WhisperX/Groq/OpenAI) ou Gemini, e responde perguntas sobre o conteúdo. |
 
 | Automação & negócio | O que faz |
 |---|---|
-| `asaas-integration` ([SKILL.md](asaas-integration/SKILL.md)) | Código de integração com a API Asaas (pagamentos BR) — cobranças, Pix, assinaturas, NF-e, negativação. |
-| `autentique-integration` ([SKILL.md](autentique-integration/SKILL.md)) | Integração com a API Autentique (assinatura eletrônica BR) — 100% GraphQL, documentos e signatários. |
-| `evolution-api` ([SKILL.md](evolution-api/SKILL.md)) | Referência de endpoints da Evolution API v2 (WhatsApp via Baileys) — instâncias, envio de mensagens, webhooks. |
-| `stripe-integration` ([SKILL.md](stripe-integration/SKILL.md)) | Integração com a API Stripe — Checkout, PaymentIntent, assinaturas, cupons, Pix, cripto e Connect/marketplace. |
+| [`asaas-integration`](skills/automacao-negocio/asaas-integration/SKILL.md) | Código de integração com a API Asaas (pagamentos BR) — cobranças, Pix, assinaturas, NF-e, negativação. |
+| [`autentique-integration`](skills/automacao-negocio/autentique-integration/SKILL.md) | Integração com a API Autentique (assinatura eletrônica BR) — 100% GraphQL, documentos e signatários. |
+| [`evolution-api`](skills/automacao-negocio/evolution-api/SKILL.md) | Referência de endpoints da Evolution API v2 (WhatsApp via Baileys) — instâncias, envio de mensagens, webhooks. |
+| [`stripe-integration`](skills/automacao-negocio/stripe-integration/SKILL.md) | Integração com a API Stripe — Checkout, PaymentIntent, assinaturas, cupons, Pix, cripto e Connect/marketplace. |
 
 ### Como instalar uma skill
 
 ```bash
 # 1. clone este repo
 git clone https://github.com/lSaGaT/skills-claude-video
-# 2. copie a pasta da skill para o diretório que seu agente lê
-cp -r skills-claude-video/<skill>/ ~/.claude/skills/   # ou .agents/skills/, conforme seu agente
+# 2. copie a pasta da skill (ela vive dentro da categoria) para o diretório que seu agente lê
+cp -r skills-claude-video/skills/<categoria>/<skill>/ ~/.claude/skills/   # ou .agents/skills/, conforme seu agente
 ```
-Dependências comuns: Node 18+, ffmpeg (o embutido do CapCut serve), Python 3.10+ p/ a suíte CapCut. Skills de terceiros: veja a ficha em `catalogo/` — instalação é clonar a coleção de origem e copiar a pasta da skill.
+**Todas as 310 skills têm o corpo completo (SKILL.md + referências + scripts) em `skills/<categoria>/<nome>/`** — a ficha com "o que cria" de cada uma está em `catalogo/<categoria>.md`. Assets pesados (evidence, catálogos visuais gigantes, mídia >8MB) ficaram de fora — para esses casos, a ficha aponta a origem.
+
+Dependências comuns: Node 18+, ffmpeg (o embutido do CapCut serve), Python 3.10+ p/ a suíte CapCut.
 
 ## Catálogo completo do arsenal (310)
 
@@ -72,6 +74,7 @@ Dependências comuns: Node 18+, ffmpeg (o embutido do CapCut serve), Python 3.10
 
 ## Nota
 
-- As 22 skills 🏠 são de autoria própria (corpo completo aqui, use livremente).
-- As outras 288 pertencem às coleções open-source de origem indicadas em cada ficha — este repo é um **catálogo de estudo** que documenta o que cada uma cria e como instalá-la; os créditos e as licenças são dos autores originais.
+- As 22 skills 🏠 são de autoria própria — use livremente.
+- As outras 288 pertencem às coleções open-source indicadas em cada ficha; os créditos e as licenças são dos autores originais, e a versão canônica de cada uma é a coleção de origem (este repo pode estar alguns dias atrás das origens).
+- Skills deduplicadas: o arsenal tem 396 SKILL.md varridos, mas cópias idênticas (.agents↔.claude, clones) viraram 1 entrada cada — o corpo aqui é sempre a versão canônica.
 - Catálogo gerado da varredura completa de 17/11/2026 (396 SKILL.md lidos 1 a 1) com diffs de 23/11/2026.

@@ -14,7 +14,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/framer-motion/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/framer-motion/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/framer-motion/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/framer-motion/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/framer-motion/`
 
 ---
 
@@ -26,7 +28,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-core/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-core/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-core/`
 
 ---
 
@@ -38,7 +42,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-frameworks/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-frameworks/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-frameworks/`
 
 ---
 
@@ -50,7 +56,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-performance/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-performance/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-performance/`
 
 ---
 
@@ -62,7 +70,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-plugins/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-plugins/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-plugins/`
 
 ---
 
@@ -74,7 +84,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-react/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-react/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-react/`
 
 ---
 
@@ -86,7 +98,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-scrolltrigger/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-scrolltrigger/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-scrolltrigger/`
 
 ---
 
@@ -98,7 +112,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-timeline/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-timeline/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-timeline/`
 
 ---
 
@@ -110,7 +126,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gsap-utils/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-utils/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/gsap-utils/`
 
 ---
 
@@ -124,7 +142,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/lottie-bodymovin/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/lottie-bodymovin/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/lottie-bodymovin/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/lottie-bodymovin/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/lottie-bodymovin/`
 
 ---
 
@@ -138,7 +158,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/tailwind-design-system/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/tailwind-design-system/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/tailwind-design-system/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/tailwind-design-system/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/tailwind-design-system/`
 
 ---
 
@@ -152,7 +174,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/vercel-composition-patterns/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/vercel-composition-patterns/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/vercel-composition-patterns/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/vercel-composition-patterns/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/vercel-composition-patterns/`
 
 ---
 
@@ -166,7 +190,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/vercel-react-best-practices/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/vercel-react-best-practices/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/vercel-react-best-practices/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/vercel-react-best-practices/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/vercel-react-best-practices/`
 
 ---
 
@@ -180,7 +206,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/web-design-guidelines/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/web-design-guidelines/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/web-design-guidelines/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/web-design-guidelines/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/web-ui/web-design-guidelines/`
 
 ---
 
@@ -192,7 +220,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/frontend-design/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/frontend-design/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/web-ui/frontend-design/`
 
 ---
 
@@ -204,7 +234,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/figma/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/figma/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/web-ui/figma/`
 
 ---
 
@@ -216,7 +248,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/60fps-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/60fps-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/60fps-animation/`
 
 ---
 
@@ -228,7 +262,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/accessible-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/accessible-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/accessible-animation/`
 
 ---
 
@@ -240,7 +276,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/ascii-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/ascii-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/ascii-animation/`
 
 ---
 
@@ -252,7 +290,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/glassmorphism/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/glassmorphism/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/glassmorphism/`
 
 ---
 
@@ -264,7 +304,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/gsap-web/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/gsap-web/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/gsap-web/`
 
 ---
 
@@ -276,7 +318,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/lottie-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/lottie-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/lottie-animation/`
 
 ---
 
@@ -288,7 +332,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/micro-interaction/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/micro-interaction/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/micro-interaction/`
 
 ---
 
@@ -300,7 +346,9 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/page-transition-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/page-transition-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/page-transition-animation/`
 
 ---
 
@@ -312,5 +360,7 @@
 
 **Origem:** web-animation-skills · [https://github.com/iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/web-animation-skills` → copie `<repo>/skills/svg-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/web-ui/svg-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/web-animation-skills.
+
+**Pasta no repo:** `skills/web-ui/svg-animation/`
 

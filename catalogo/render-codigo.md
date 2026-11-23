@@ -12,7 +12,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/hyperframes-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/hyperframes-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/render-codigo/hyperframes-animation/`
 
 ---
 
@@ -26,7 +28,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/hyperframes-cli/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/hyperframes-cli/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/hyperframes-cli/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/hyperframes-cli/`
 
 ---
 
@@ -38,7 +42,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/hyperframes-core/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/hyperframes-core/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/render-codigo/hyperframes-core/`
 
 ---
 
@@ -52,7 +58,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/hyperframes-registry/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/hyperframes-registry/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/hyperframes-registry/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/hyperframes-registry/`
 
 ---
 
@@ -66,7 +74,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/hyperframes/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/hyperframes/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/hyperframes/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/hyperframes/`
 
 ---
 
@@ -80,7 +90,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/remotion-best-practices/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/remotion-best-practices/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-best-practices/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-best-practices/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-best-practices/`
 
 ---
 
@@ -94,7 +106,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/remotion-to-hyperframes/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/remotion-to-hyperframes/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-to-hyperframes/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-to-hyperframes/`
 
 ---
 
@@ -106,7 +120,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/remotion-official/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-official/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/render-codigo/remotion-official/`
 
 ---
 
@@ -118,7 +134,9 @@
 
 **Origem:** claude-faceless-shorts-creator
 
-**Como instalar:** Coleção local em `editor-chefe/skills/claude-faceless-shorts-creator/` (sem remote) — copie `.claude/skills/vidtsx-2d-generator/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/vidtsx-2d-generator/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/claude-faceless-shorts-creator`.
+
+**Pasta no repo:** `skills/render-codigo/vidtsx-2d-generator/`
 
 ---
 
@@ -130,7 +148,9 @@
 
 **Origem:** hyperframes-motion-director
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes-motion-director/` (sem remote) — copie `skills/hyperframes-motion-director/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/hyperframes-motion-director/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes-motion-director`.
+
+**Pasta no repo:** `skills/render-codigo/hyperframes-motion-director/`
 
 ---
 
@@ -144,7 +164,9 @@
 
 **Também em:** 
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `.agents/skills/captions-overlay/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/captions-overlay/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/captions-overlay/`
 
 ---
 
@@ -158,7 +180,9 @@
 
 **Também em:** 
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `.agents/skills/changelog-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/changelog-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/changelog-video/`
 
 ---
 
@@ -172,7 +196,9 @@
 
 **Também em:** 
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `.agents/skills/cut-the-curve/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/cut-the-curve/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/cut-the-curve/`
 
 ---
 
@@ -186,7 +212,9 @@
 
 **Também em:** 
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `.agents/skills/motion-doctrine/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/motion-doctrine/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/motion-doctrine/`
 
 ---
 
@@ -200,7 +228,9 @@
 
 **Também em:** 
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `.agents/skills/oversized-cursor/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/oversized-cursor/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/oversized-cursor/`
 
 ---
 
@@ -214,7 +244,9 @@
 
 **Também em:** 
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `.agents/skills/seam-craft/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/seam-craft/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/seam-craft/`
 
 ---
 
@@ -226,7 +258,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/canopy-part-title/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/canopy-part-title/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/canopy-part-title/`
 
 ---
 
@@ -238,7 +272,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/code-slice-hero/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/code-slice-hero/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/code-slice-hero/`
 
 ---
 
@@ -250,7 +286,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/cuboid-carousel/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/cuboid-carousel/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/cuboid-carousel/`
 
 ---
 
@@ -262,7 +300,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/frost-sequence-camera-orbit/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/frost-sequence-camera-orbit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/frost-sequence-camera-orbit/`
 
 ---
 
@@ -274,7 +314,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/glass-shard-title/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/glass-shard-title/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/glass-shard-title/`
 
 ---
 
@@ -286,7 +328,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/orbit-card/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/orbit-card/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/orbit-card/`
 
 ---
 
@@ -298,7 +342,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `registry/blocks/wireframe-portal-title/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/wireframe-portal-title/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/wireframe-portal-title/`
 
 ---
 
@@ -310,7 +356,9 @@
 
 **Origem:** hyperframes
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/slideshow/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/slideshow/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/render-codigo/slideshow/`
 
 ---
 
@@ -322,7 +370,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/pipelines/_shared/skills/remotion-motion/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-motion/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/render-codigo/remotion-motion/`
 
 ---
 
@@ -334,7 +384,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/remotion-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/render-codigo/remotion-video/`
 
 ---
 
@@ -346,7 +398,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-captions/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-captions/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-captions/`
 
 ---
 
@@ -358,7 +412,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-create/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-create/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-create/`
 
 ---
 
@@ -370,7 +426,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-docs/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-docs/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-docs/`
 
 ---
 
@@ -382,7 +440,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-interactivity/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-interactivity/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-interactivity/`
 
 ---
 
@@ -394,7 +454,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-maps/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-maps/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-maps/`
 
 ---
 
@@ -406,7 +468,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-markup/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-markup/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-markup/`
 
 ---
 
@@ -418,7 +482,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-multimedia/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-multimedia/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-multimedia/`
 
 ---
 
@@ -430,7 +496,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-render/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-render/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-render/`
 
 ---
 
@@ -442,7 +510,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-saas/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-saas/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-saas/`
 
 ---
 
@@ -454,7 +524,9 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-studio/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-studio/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-studio/`
 
 ---
 
@@ -466,5 +538,7 @@
 
 **Origem:** remotion-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/remotion-skills/` (sem remote) — copie `skills/remotion-upgrade/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/render-codigo/remotion-upgrade/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/remotion-skills`.
+
+**Pasta no repo:** `skills/render-codigo/remotion-upgrade/`
 

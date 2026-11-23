@@ -14,7 +14,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/ai-video-gen/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/ai-video-gen/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/ai-video-gen/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/ai-video-gen/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/ai-video-gen/`
 
 ---
 
@@ -26,7 +28,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/atlas-cloud/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/atlas-cloud/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/atlas-cloud/`
 
 ---
 
@@ -40,7 +44,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/avatar-video/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/avatar-video/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/avatar-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/avatar-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/avatar-video/`
 
 ---
 
@@ -54,7 +60,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/bfl-api/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/bfl-api/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/bfl-api/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/bfl-api/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/bfl-api/`
 
 ---
 
@@ -66,7 +74,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/comfyui/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/comfyui/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/comfyui/`
 
 ---
 
@@ -80,7 +90,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/create-video/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/create-video/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/create-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/create-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/create-video/`
 
 ---
 
@@ -92,7 +104,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/dashscope/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/dashscope/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/dashscope/`
 
 ---
 
@@ -106,7 +120,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/faceswap/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/faceswap/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/faceswap/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/faceswap/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/faceswap/`
 
 ---
 
@@ -120,7 +136,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/flux-best-practices/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/flux-best-practices/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/flux-best-practices/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/flux-best-practices/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/flux-best-practices/`
 
 ---
 
@@ -132,7 +150,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/gemini-omni/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/gemini-omni/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/gemini-omni/`
 
 ---
 
@@ -144,7 +164,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/grok-media/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/grok-media/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/grok-media/`
 
 ---
 
@@ -158,7 +180,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/heygen/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/heygen/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/heygen/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/heygen/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/heygen/`
 
 ---
 
@@ -170,7 +194,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/kling-official/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/kling-official/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/kling-official/`
 
 ---
 
@@ -184,7 +210,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/ltx2/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/ltx2/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/.claude/skills/ltx2/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/ltx2/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/ltx2/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/ltx2/`
 
 ---
 
@@ -196,7 +224,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/minimax-h3/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/minimax-h3/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/minimax-h3/`
 
 ---
 
@@ -208,7 +238,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/provider-model-refresh/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/provider-model-refresh/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/provider-model-refresh/`
 
 ---
 
@@ -222,7 +254,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/remotion/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/remotion/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/.claude/skills/remotion/SKILL.md
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/remotion/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/remotion/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/geracao-ai/remotion/`
 
 ---
 
@@ -234,7 +268,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/seedance-2-0/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/seedance-2-0/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/seedance-2-0/`
 
 ---
 
@@ -246,7 +282,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/seedance-2-5/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/seedance-2-5/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/seedance-2-5/`
 
 ---
 
@@ -260,7 +298,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/video-toolkit/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/video_toolkit/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/skills/openclaw-video-toolkit/SKILL.md
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/skills/openclaw-video-toolkit/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/video-toolkit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/geracao-ai/video-toolkit/`
 
 ---
 
@@ -274,7 +314,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/video-translate/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/video-translate/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/video-translate/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/video-translate/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/geracao-ai/video-translate/`
 
 ---
 
@@ -286,7 +328,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/ideogram4/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/ideogram4/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/geracao-ai/ideogram4/`
 
 ---
 
@@ -298,7 +342,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/qwen-edit/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/qwen-edit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/geracao-ai/qwen-edit/`
 
 ---
 
@@ -310,5 +356,7 @@
 
 **Origem:** generative-illustration-skills · [https://github.com/iart-ai/generative-illustration-skills](https://github.com/iart-ai/generative-illustration-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/generative-illustration-skills` → copie `<repo>/skills/generative-illustration/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/geracao-ai/generative-illustration-skills/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/generative-illustration-skills.
+
+**Pasta no repo:** `skills/geracao-ai/generative-illustration-skills/`
 

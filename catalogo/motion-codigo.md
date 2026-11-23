@@ -12,7 +12,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/canvas-procedural-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/canvas-procedural-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/canvas-procedural-animation/`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/character-animation-qa/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/character-animation-qa/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/character-animation-qa/`
 
 ---
 
@@ -36,7 +40,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/character-rigging/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/character-rigging/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/character-rigging/`
 
 ---
 
@@ -48,7 +54,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/motion-graphics/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/motion-graphics/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/motion-graphics/`
 
 ---
 
@@ -60,7 +68,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/music-to-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/music-to-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/music-to-video/`
 
 ---
 
@@ -72,7 +82,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/pose-library-design/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/pose-library-design/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/pose-library-design/`
 
 ---
 
@@ -84,7 +96,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/svg-character-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/svg-character-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/svg-character-animation/`
 
 ---
 
@@ -96,7 +110,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/synthetic-screen-recording/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/synthetic-screen-recording/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/synthetic-screen-recording/`
 
 ---
 
@@ -108,7 +124,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/website-to-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/website-to-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/motion-codigo/website-to-video/`
 
 ---
 
@@ -120,7 +138,9 @@
 
 **Origem:** adu-motion-video
 
-**Como instalar:** Coleção local em `editor-chefe/skills/adu-motion-video/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/adu-motion-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/adu-motion-video`.
+
+**Pasta no repo:** `skills/motion-codigo/adu-motion-video/`
 
 ---
 
@@ -132,7 +152,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/synthetic-ui-demo/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/synthetic-ui-demo/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/motion-codigo/synthetic-ui-demo/`
 
 ---
 
@@ -144,7 +166,9 @@
 
 **Origem:** claude-motion-design
 
-**Como instalar:** Coleção local em `editor-chefe/skills/claude-motion-design/` (sem remote) — copie `skill/motion-design/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/motion-design/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/claude-motion-design`.
+
+**Pasta no repo:** `skills/motion-codigo/motion-design/`
 
 ---
 
@@ -156,7 +180,9 @@
 
 **Origem:** dashi-animationstyle
 
-**Como instalar:** Coleção local em `editor-chefe/skills/dashi-animationstyle/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/dashi-animationstyle/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/dashi-animationstyle`.
+
+**Pasta no repo:** `skills/motion-codigo/dashi-animationstyle/`
 
 ---
 
@@ -168,7 +194,9 @@
 
 **Origem:** explainer-video-skills · [https://github.com/iart-ai/explainer-video-skills](https://github.com/iart-ai/explainer-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/explainer-video-skills` → copie `<repo>/skills/isometric-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/isometric-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/explainer-video-skills.
+
+**Pasta no repo:** `skills/motion-codigo/isometric-animation/`
 
 ---
 
@@ -180,7 +208,9 @@
 
 **Origem:** guizang-product-video-skill
 
-**Como instalar:** Coleção local em `editor-chefe/skills/guizang-product-video-skill/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/guizang-product-video-skill/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/guizang-product-video-skill`.
+
+**Pasta no repo:** `skills/motion-codigo/guizang-product-video-skill/`
 
 ---
 
@@ -192,7 +222,9 @@
 
 **Origem:** javascript-animation-skills · [https://github.com/iart-ai/javascript-animation-skills](https://github.com/iart-ai/javascript-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/javascript-animation-skills` → copie `<repo>/skills/javascript-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/javascript-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/javascript-animation-skills.
+
+**Pasta no repo:** `skills/motion-codigo/javascript-animation/`
 
 ---
 
@@ -204,7 +236,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/motion-background/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/motion-background/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/motion-codigo/motion-background/`
 
 ---
 
@@ -216,7 +250,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/apple-launch-film/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/apple-launch-film/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/motion-codigo/apple-launch-film/`
 
 ---
 
@@ -228,7 +264,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/launch-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/launch-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/motion-codigo/launch-video/`
 
 ---
 
@@ -240,7 +278,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/loop-cover/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/loop-cover/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/motion-codigo/loop-cover/`
 
 ---
 
@@ -252,7 +292,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/milestone-reveal/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/milestone-reveal/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/motion-codigo/milestone-reveal/`
 
 ---
 
@@ -264,7 +306,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/model-showdown/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/model-showdown/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/motion-codigo/model-showdown/`
 
 ---
 
@@ -276,7 +320,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/motion-effects/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/motion-effects/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/motion-codigo/motion-effects/`
 
 ---
 
@@ -288,7 +334,9 @@
 
 **Origem:** motion-video-kit
 
-**Como instalar:** Coleção local em `editor-chefe/skills/motion-video-kit/` (sem remote) — copie `business-motion-film/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/business-motion-film/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/motion-video-kit`.
+
+**Pasta no repo:** `skills/motion-codigo/business-motion-film/`
 
 ---
 
@@ -300,7 +348,9 @@
 
 **Origem:** motionmaxxing
 
-**Como instalar:** Coleção local em `editor-chefe/skills/motionmaxxing/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/motionmaxxing/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/motionmaxxing`.
+
+**Pasta no repo:** `skills/motion-codigo/motionmaxxing/`
 
 ---
 
@@ -312,5 +362,7 @@
 
 **Origem:** onetake
 
-**Como instalar:** Coleção local em `editor-chefe/skills/onetake/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/motion-codigo/onetake/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/onetake`.
+
+**Pasta no repo:** `skills/motion-codigo/onetake/` *(assets pesados ficaram de fora — pegue na origem)*
 

@@ -12,7 +12,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.claude/skills/openstoryline-install/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/openstoryline-install/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/openstoryline-install/`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.claude/skills/openstoryline-use/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/openstoryline-use/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/openstoryline-use/`
 
 ---
 
@@ -36,7 +40,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.storyline/skills/ai_transition_editing_skill/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/ai_transition_editing_skill/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/ai_transition_editing_skill/`
 
 ---
 
@@ -48,7 +54,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.storyline/skills/create_profile_style_skill/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/create_profile_style_skill/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/create_profile_style_skill/`
 
 ---
 
@@ -60,7 +68,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.storyline/skills/default_editing_workflow_skill/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/default_editing_workflow_skill/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/default_editing_workflow_skill/`
 
 ---
 
@@ -72,7 +82,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.storyline/skills/speech_rough_cut_skill/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/speech_rough_cut_skill/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/speech_rough_cut_skill/`
 
 ---
 
@@ -84,7 +96,9 @@
 
 **Origem:** FireRed-OpenStoryline · [https://github.com/FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
-**Como instalar:** `git clone https://github.com/FireRedTeam/FireRed-OpenStoryline` → copie `<repo>/.storyline/skills/subtitle_imitation_skill/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/subtitle_imitation_skill/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/FireRedTeam/FireRed-OpenStoryline.
+
+**Pasta no repo:** `skills/editores-agentes/subtitle_imitation_skill/`
 
 ---
 
@@ -96,7 +110,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/skills/openchatcut/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/openchatcut/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/openchatcut/`
 
 ---
 
@@ -108,7 +124,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/ai-cinematic-short-film/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/ai-cinematic-short-film/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/ai-cinematic-short-film/`
 
 ---
 
@@ -120,7 +138,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/asset-import/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/asset-import/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/asset-import/`
 
 ---
 
@@ -132,7 +152,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/batch-montage-variants/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/batch-montage-variants/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/batch-montage-variants/`
 
 ---
 
@@ -144,7 +166,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/beat-sync-montage/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/beat-sync-montage/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/beat-sync-montage/`
 
 ---
 
@@ -156,7 +180,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/create-motion-graphics/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/create-motion-graphics/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/create-motion-graphics/`
 
 ---
 
@@ -168,7 +194,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/ecommerce-product-montage/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/ecommerce-product-montage/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/ecommerce-product-montage/`
 
 ---
 
@@ -180,7 +208,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/explainer-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/explainer-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/explainer-video/`
 
 ---
 
@@ -192,7 +222,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/export/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/export/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/export/`
 
 ---
 
@@ -204,7 +236,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/image-gen/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/image-gen/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/image-gen/`
 
 ---
 
@@ -216,7 +250,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/known-errors/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/known-errors/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/known-errors/`
 
 ---
 
@@ -228,7 +264,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/livestream-to-clips/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/livestream-to-clips/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/livestream-to-clips/`
 
 ---
 
@@ -240,7 +278,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/long-video-to-shorts/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/long-video-to-shorts/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/long-video-to-shorts/`
 
 ---
 
@@ -252,7 +292,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/motion-graphic-placement/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/motion-graphic-placement/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/motion-graphic-placement/`
 
 ---
 
@@ -264,7 +306,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/multi-clips-to-reels/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/multi-clips-to-reels/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/multi-clips-to-reels/`
 
 ---
 
@@ -276,7 +320,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/music-intelligence/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/music-intelligence/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/music-intelligence/`
 
 ---
 
@@ -288,7 +334,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/music/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/music/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/music/`
 
 ---
 
@@ -300,7 +348,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/news-rough-cut/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/news-rough-cut/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/news-rough-cut/`
 
 ---
 
@@ -312,7 +362,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/openchatcut-plugin-basics/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/openchatcut-plugin-basics/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/openchatcut-plugin-basics/`
 
 ---
 
@@ -324,7 +376,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/product-ad-video-script/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/product-ad-video-script/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/product-ad-video-script/`
 
 ---
 
@@ -336,7 +390,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/product-help/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/product-help/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/product-help/`
 
 ---
 
@@ -348,7 +404,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/shader-gen/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/shader-gen/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/shader-gen/`
 
 ---
 
@@ -360,7 +418,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/skill-creator/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/skill-creator/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/skill-creator/`
 
 ---
 
@@ -372,7 +432,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/storyboard-shot-breakdown/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/storyboard-shot-breakdown/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/storyboard-shot-breakdown/`
 
 ---
 
@@ -384,7 +446,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/talking-head-guide/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/talking-head-guide/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/talking-head-guide/`
 
 ---
 
@@ -396,7 +460,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/transcription/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/transcription/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/transcription/`
 
 ---
 
@@ -408,7 +474,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/verification/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/verification/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/verification/`
 
 ---
 
@@ -420,7 +488,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/video-gen/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/video-gen/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/video-gen/`
 
 ---
 
@@ -432,7 +502,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/video-thumbnail-generator/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/video-thumbnail-generator/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/video-thumbnail-generator/`
 
 ---
 
@@ -444,7 +516,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/voice/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/voice/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/voice/`
 
 ---
 
@@ -456,7 +530,9 @@
 
 **Origem:** OpenChatCut · [https://github.com/0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)
 
-**Como instalar:** `git clone https://github.com/0xsline/OpenChatCut` → copie `<repo>/src/agent/skills/widget-forms/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/widget-forms/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/0xsline/OpenChatCut.
+
+**Pasta no repo:** `skills/editores-agentes/widget-forms/`
 
 ---
 
@@ -468,7 +544,9 @@
 
 **Origem:** agent-storyboard · [https://github.com/Yuuhann1999/agent-storyboard](https://github.com/Yuuhann1999/agent-storyboard)
 
-**Como instalar:** `git clone https://github.com/Yuuhann1999/agent-storyboard` → copie `<repo>/plugins/agent-storyboard/skills/manage-storyboard-projects/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/manage-storyboard-projects/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Yuuhann1999/agent-storyboard.
+
+**Pasta no repo:** `skills/editores-agentes/manage-storyboard-projects/`
 
 ---
 
@@ -480,7 +558,9 @@
 
 **Origem:** agent-storyboard · [https://github.com/Yuuhann1999/agent-storyboard](https://github.com/Yuuhann1999/agent-storyboard)
 
-**Como instalar:** `git clone https://github.com/Yuuhann1999/agent-storyboard` → copie `<repo>/plugins/agent-storyboard/skills/process-storyboard-tasks/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/process-storyboard-tasks/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Yuuhann1999/agent-storyboard.
+
+**Pasta no repo:** `skills/editores-agentes/process-storyboard-tasks/`
 
 ---
 
@@ -492,7 +572,9 @@
 
 **Origem:** cartcut · [https://github.com/cartesiancs/cartcut](https://github.com/cartesiancs/cartcut)
 
-**Como instalar:** `git clone https://github.com/cartesiancs/cartcut` → copie `<repo>/plugins/cartcut-editing/skills/cartcut-editing/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/cartcut-editing/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/cartesiancs/cartcut.
+
+**Pasta no repo:** `skills/editores-agentes/cartcut-editing/`
 
 ---
 
@@ -504,7 +586,9 @@
 
 **Origem:** cheap-claude-video
 
-**Como instalar:** Coleção local em `editor-chefe/skills/cheap-claude-video/` (sem remote) — copie `skills/capsule-cinema/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/capsule-cinema/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/cheap-claude-video`.
+
+**Pasta no repo:** `skills/editores-agentes/capsule-cinema/`
 
 ---
 
@@ -516,7 +600,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-check-updates/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-check-updates/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-check-updates/`
 
 ---
 
@@ -528,7 +614,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-cut/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-cut/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-cut/`
 
 ---
 
@@ -540,7 +628,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-export/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-export/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-export/`
 
 ---
 
@@ -552,7 +642,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-report-bug/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-report-bug/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-report-bug/`
 
 ---
 
@@ -564,7 +656,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-subtitle/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-subtitle/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-subtitle/`
 
 ---
 
@@ -576,7 +670,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-videocut-workbench/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-videocut-workbench/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-videocut-workbench/`
 
 ---
 
@@ -588,7 +684,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-visual/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/chengfeng-visual/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/chengfeng-visual/`
 
 ---
 
@@ -600,7 +698,9 @@
 
 **Origem:** chengfeng-videocut-skills · [https://github.com/Agentchengfeng/chengfeng-videocut](https://github.com/Agentchengfeng/chengfeng-videocut)
 
-**Como instalar:** `git clone https://github.com/Agentchengfeng/chengfeng-videocut` → copie `<repo>/plugins/chengfeng-videocut/skills/chengfeng-visual/animation-styles/ian-xiaohei-svg-motion/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/ian-xiaohei-svg-motion/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/Agentchengfeng/chengfeng-videocut.
+
+**Pasta no repo:** `skills/editores-agentes/ian-xiaohei-svg-motion/`
 
 ---
 
@@ -612,7 +712,9 @@
 
 **Origem:** editor-video-ia
 
-**Como instalar:** Coleção local em `editor-chefe/skills/editor-video-ia/` (sem remote) — copie `.claude/skills/editor-de-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/editor-de-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/editor-video-ia`.
+
+**Pasta no repo:** `skills/editores-agentes/editor-de-video/`
 
 ---
 
@@ -624,7 +726,9 @@
 
 **Origem:** hypit · [https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit)
 
-**Como instalar:** `git clone https://github.com/hypit-ai/hypit` → copie `<repo>/skills/hypit/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/hypit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/hypit-ai/hypit.
+
+**Pasta no repo:** `skills/editores-agentes/hypit/`
 
 ---
 
@@ -636,7 +740,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/plugin/skills/mortiflix/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/mortiflix/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/editores-agentes/mortiflix/`
 
 ---
 
@@ -648,5 +754,7 @@
 
 **Origem:** narrator-ai-cli-skill
 
-**Como instalar:** Coleção local em `editor-chefe/skills/narrator-ai-cli-skill/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/editores-agentes/narrator-ai-cli/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/narrator-ai-cli-skill`.
+
+**Pasta no repo:** `skills/editores-agentes/narrator-ai-cli/`
 

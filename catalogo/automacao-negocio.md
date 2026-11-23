@@ -12,7 +12,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `asaas-integration/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/automacao-negocio/asaas-integration/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/automacao-negocio/asaas-integration/`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `autentique-integration/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/automacao-negocio/autentique-integration/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/automacao-negocio/autentique-integration/`
 
 ---
 
@@ -36,7 +40,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `evolution-api/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/automacao-negocio/evolution-api/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/automacao-negocio/evolution-api/`
 
 ---
 
@@ -48,5 +54,7 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `stripe-integration/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/automacao-negocio/stripe-integration/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/automacao-negocio/stripe-integration/`
 

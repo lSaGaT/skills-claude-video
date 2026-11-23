@@ -14,7 +14,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/acestep/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/acestep/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/.claude/skills/acestep/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/acestep/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/acestep/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/acestep/`
 
 ---
 
@@ -28,7 +30,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/agents/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/agents/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/agents/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/agents/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/agents/`
 
 ---
 
@@ -42,7 +46,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/azure-speech-to-text/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/azure-speech-to-text/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/azure-speech-to-text/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/azure-speech-to-text/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/azure-speech-to-text/`
 
 ---
 
@@ -56,7 +62,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/azure-text-to-speech/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/azure-text-to-speech/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/azure-text-to-speech/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/azure-text-to-speech/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/azure-text-to-speech/`
 
 ---
 
@@ -68,7 +76,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/doubao-tts/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/doubao-tts/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/doubao-tts/`
 
 ---
 
@@ -82,7 +92,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/elevenlabs/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/elevenlabs/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/.claude/skills/elevenlabs/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/elevenlabs/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/elevenlabs/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/elevenlabs/`
 
 ---
 
@@ -94,7 +106,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/fish-audio-tts/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/fish-audio-tts/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/fish-audio-tts/`
 
 ---
 
@@ -106,7 +120,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/hyperframes-media/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/hyperframes-media/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/hyperframes-media/`
 
 ---
 
@@ -118,7 +134,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/lyria/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/lyria/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/lyria/`
 
 ---
 
@@ -132,7 +150,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/music/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/music/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/music/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/music--openmontage/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/music--openmontage/`
 
 ---
 
@@ -146,7 +166,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/setup-api-key/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/setup-api-key/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/setup-api-key/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/setup-api-key/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/setup-api-key/`
 
 ---
 
@@ -160,7 +182,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/sound-effects/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/sound-effects/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/sound-effects/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/sound-effects/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/sound-effects/`
 
 ---
 
@@ -174,7 +198,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/speech-to-text/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/speech-to-text/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/speech-to-text/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/speech-to-text/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/speech-to-text/`
 
 ---
 
@@ -188,7 +214,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/text-to-speech/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/text-to-speech/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/text-to-speech/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/text-to-speech/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/voz-audio/text-to-speech/`
 
 ---
 
@@ -200,7 +228,9 @@
 
 **Origem:** claude-faceless-shorts-creator
 
-**Como instalar:** Coleção local em `editor-chefe/skills/claude-faceless-shorts-creator/` (sem remote) — copie `.claude/skills/suggest-sfx/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/suggest-sfx/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/claude-faceless-shorts-creator`.
+
+**Pasta no repo:** `skills/voz-audio/suggest-sfx/`
 
 ---
 
@@ -212,7 +242,9 @@
 
 **Origem:** javascript-animation-skills · [https://github.com/iart-ai/javascript-animation-skills](https://github.com/iart-ai/javascript-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/javascript-animation-skills` → copie `<repo>/skills/soundtrack/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/soundtrack/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/javascript-animation-skills.
+
+**Pasta no repo:** `skills/voz-audio/soundtrack/`
 
 ---
 
@@ -224,7 +256,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/pipelines/_shared/skills/music/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/music--mortiflix-oss/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/voz-audio/music--mortiflix-oss/`
 
 ---
 
@@ -236,5 +270,7 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/pipelines/_shared/skills/voiceover/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/voz-audio/voiceover/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/voz-audio/voiceover/`
 

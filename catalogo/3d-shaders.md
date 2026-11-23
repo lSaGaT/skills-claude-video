@@ -12,7 +12,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/3d-asset-generation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/3d-asset-generation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/3d-asset-generation/`
 
 ---
 
@@ -26,7 +28,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-animation/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-animation/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-animation--openmontage/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-animation--openmontage/`
 
 ---
 
@@ -40,7 +44,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-fundamentals/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-fundamentals/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-fundamentals/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-fundamentals/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-fundamentals/`
 
 ---
 
@@ -54,7 +60,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-geometry/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-geometry/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-geometry/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-geometry/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-geometry/`
 
 ---
 
@@ -68,7 +76,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-interaction/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-interaction/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-interaction/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-interaction/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-interaction/`
 
 ---
 
@@ -82,7 +92,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-lighting/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-lighting/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-lighting/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-lighting/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-lighting/`
 
 ---
 
@@ -96,7 +108,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-loaders/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-loaders/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-loaders/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-loaders/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-loaders/`
 
 ---
 
@@ -110,7 +124,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-materials/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-materials/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-materials/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-materials/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-materials/`
 
 ---
 
@@ -124,7 +140,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-postprocessing/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-postprocessing/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-postprocessing/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-postprocessing/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-postprocessing/`
 
 ---
 
@@ -138,7 +156,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-shaders/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-shaders/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-shaders/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-shaders/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-shaders/`
 
 ---
 
@@ -152,7 +172,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/threejs-textures/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/threejs-textures/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-textures/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-textures/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-textures/`
 
 ---
 
@@ -164,7 +186,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/threejs-world-generation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-world-generation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-world-generation/`
 
 ---
 
@@ -176,7 +200,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/harness/skills/blender-3d/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/blender-3d/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/3d-shaders/blender-3d/`
 
 ---
 
@@ -188,7 +214,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/title-sequence-3d/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/title-sequence-3d/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/3d-shaders/title-sequence-3d/`
 
 ---
 
@@ -200,7 +228,9 @@
 
 **Origem:** three-best-practices
 
-**Como instalar:** Coleção local em `editor-chefe/skills/three-best-practices/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/three-best-practices/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/three-best-practices`.
+
+**Pasta no repo:** `skills/3d-shaders/three-best-practices/`
 
 ---
 
@@ -212,7 +242,9 @@
 
 **Origem:** webgl-animation-skills · [https://github.com/iart-ai/webgl-animation-skills](https://github.com/iart-ai/webgl-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/webgl-animation-skills` → copie `<repo>/skills/particle-system/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/particle-system/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/webgl-animation-skills.
+
+**Pasta no repo:** `skills/3d-shaders/particle-system/`
 
 ---
 
@@ -224,7 +256,9 @@
 
 **Origem:** webgl-animation-skills · [https://github.com/iart-ai/webgl-animation-skills](https://github.com/iart-ai/webgl-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/webgl-animation-skills` → copie `<repo>/skills/shader-glsl/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/shader-glsl/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/webgl-animation-skills.
+
+**Pasta no repo:** `skills/3d-shaders/shader-glsl/`
 
 ---
 
@@ -236,5 +270,7 @@
 
 **Origem:** webgl-animation-skills · [https://github.com/iart-ai/webgl-animation-skills](https://github.com/iart-ai/webgl-animation-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/webgl-animation-skills` → copie `<repo>/skills/threejs-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/3d-shaders/threejs-animation--webgl-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/webgl-animation-skills.
+
+**Pasta no repo:** `skills/3d-shaders/threejs-animation--webgl-animation/`
 

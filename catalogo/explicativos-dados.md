@@ -14,7 +14,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/beautiful-mermaid/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/beautiful-mermaid/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/beautiful-mermaid/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/beautiful-mermaid/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/explicativos-dados/beautiful-mermaid/`
 
 ---
 
@@ -28,7 +30,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/d3-viz/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/d3-viz/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/d3-viz/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/d3-viz/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/explicativos-dados/d3-viz/`
 
 ---
 
@@ -42,7 +46,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/manim-composer/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/manim-composer/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/manim_skill/` (sem remote) — copie `skills/manim-composer/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/manim-composer/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/manim_skill`.
+
+**Pasta no repo:** `skills/explicativos-dados/manim-composer/`
 
 ---
 
@@ -56,7 +62,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/manimce-best-practices/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/manimce-best-practices/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/manim_skill/` (sem remote) — copie `skills/manimce-best-practices/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/manimce-best-practices/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/manim_skill`.
+
+**Pasta no repo:** `skills/explicativos-dados/manimce-best-practices/`
 
 ---
 
@@ -70,7 +78,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/manimgl-best-practices/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/manimgl-best-practices/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/manim_skill/` (sem remote) — copie `skills/manimgl-best-practices/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/manimgl-best-practices/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/manim_skill`.
+
+**Pasta no repo:** `skills/explicativos-dados/manimgl-best-practices/`
 
 ---
 
@@ -82,7 +92,9 @@
 
 **Origem:** data-animation-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/data-animation-skills/` (sem remote) — copie `skills/animated-infographic/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/animated-infographic/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/data-animation-skills`.
+
+**Pasta no repo:** `skills/explicativos-dados/animated-infographic/`
 
 ---
 
@@ -94,7 +106,9 @@
 
 **Origem:** data-animation-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/data-animation-skills/` (sem remote) — copie `skills/chart-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/chart-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/data-animation-skills`.
+
+**Pasta no repo:** `skills/explicativos-dados/chart-animation/`
 
 ---
 
@@ -106,7 +120,9 @@
 
 **Origem:** data-animation-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/data-animation-skills/` (sem remote) — copie `skills/presentation-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/presentation-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/data-animation-skills`.
+
+**Pasta no repo:** `skills/explicativos-dados/presentation-video/`
 
 ---
 
@@ -118,7 +134,9 @@
 
 **Origem:** explainer-video-skills · [https://github.com/iart-ai/explainer-video-skills](https://github.com/iart-ai/explainer-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/explainer-video-skills` → copie `<repo>/skills/diagram-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/diagram-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/explainer-video-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/diagram-animation/`
 
 ---
 
@@ -130,7 +148,9 @@
 
 **Origem:** explainer-video-skills · [https://github.com/iart-ai/explainer-video-skills](https://github.com/iart-ai/explainer-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/explainer-video-skills` → copie `<repo>/skills/explainer-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/explainer-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/explainer-video-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/explainer-video/`
 
 ---
 
@@ -142,7 +162,9 @@
 
 **Origem:** explainer-video-skills · [https://github.com/iart-ai/explainer-video-skills](https://github.com/iart-ai/explainer-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/explainer-video-skills` → copie `<repo>/skills/whiteboard-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/whiteboard-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/explainer-video-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/whiteboard-animation/`
 
 ---
 
@@ -154,7 +176,9 @@
 
 **Origem:** explainer-video-skills · [https://github.com/iart-ai/explainer-video-skills](https://github.com/iart-ai/explainer-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/explainer-video-skills` → copie `<repo>/skills/wrapped-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/wrapped-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/explainer-video-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/wrapped-video/`
 
 ---
 
@@ -166,7 +190,9 @@
 
 **Origem:** explainroo
 
-**Como instalar:** Coleção local em `editor-chefe/skills/explainroo/` (sem remote) — copie `skills/explainroo/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/explainroo/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/explainroo`.
+
+**Pasta no repo:** `skills/explicativos-dados/explainroo/`
 
 ---
 
@@ -178,7 +204,9 @@
 
 **Origem:** hand-drawn-explainer-video-nikola
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hand-drawn-explainer-video-nikola/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/hand-drawn-explainer-video-nikola/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hand-drawn-explainer-video-nikola`.
+
+**Pasta no repo:** `skills/explicativos-dados/hand-drawn-explainer-video-nikola/`
 
 ---
 
@@ -190,7 +218,9 @@
 
 **Origem:** manim-skills · [https://github.com/iart-ai/manim-skills](https://github.com/iart-ai/manim-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/manim-skills` → copie `<repo>/skills/manim/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/manim/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/manim-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/manim/`
 
 ---
 
@@ -202,7 +232,9 @@
 
 **Origem:** map-animation-skills
 
-**Como instalar:** Coleção local em `editor-chefe/skills/map-animation-skills/` (sem remote) — copie `skills/map-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/map-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/map-animation-skills`.
+
+**Pasta no repo:** `skills/explicativos-dados/map-animation/`
 
 ---
 
@@ -214,7 +246,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/animated-chart/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/animated-chart/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/animated-chart/`
 
 ---
 
@@ -226,7 +260,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/vox-explainer/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/vox-explainer/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/explicativos-dados/vox-explainer/`
 
 ---
 
@@ -238,5 +274,7 @@
 
 **Origem:** vox-director
 
-**Como instalar:** Coleção local em `editor-chefe/skills/vox-director/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/explicativos-dados/vox-director/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/vox-director`.
+
+**Pasta no repo:** `skills/explicativos-dados/vox-director/`
 

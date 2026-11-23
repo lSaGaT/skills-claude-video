@@ -12,7 +12,9 @@
 
 **Origem:** ad-video-skills · [https://github.com/iart-ai/ad-video-skills](https://github.com/iart-ai/ad-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/ad-video-skills` → copie `<repo>/skills/ad-creative-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/ad-creative-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/ad-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/ad-creative-video/`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Origem:** ad-video-skills · [https://github.com/iart-ai/ad-video-skills](https://github.com/iart-ai/ad-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/ad-video-skills` → copie `<repo>/skills/launch-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/launch-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/ad-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/launch-video/`
 
 ---
 
@@ -36,7 +40,9 @@
 
 **Origem:** ad-video-skills · [https://github.com/iart-ai/ad-video-skills](https://github.com/iart-ai/ad-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/ad-video-skills` → copie `<repo>/skills/testimonial-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/testimonial-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/ad-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/testimonial-video/`
 
 ---
 
@@ -48,7 +54,9 @@
 
 **Origem:** ai-video-editing-skill
 
-**Como instalar:** Coleção local em `editor-chefe/skills/ai-video-editing-skill/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/vlog-auto-edit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/ai-video-editing-skill`.
+
+**Pasta no repo:** `skills/formatos-sociais/vlog-auto-edit/`
 
 ---
 
@@ -60,7 +68,9 @@
 
 **Origem:** book-video-factory
 
-**Como instalar:** Coleção local em `editor-chefe/skills/book-video-factory/` (sem remote) — copie `skills/book-video-factory/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/book-video-factory/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/book-video-factory`.
+
+**Pasta no repo:** `skills/formatos-sociais/book-video-factory/`
 
 ---
 
@@ -72,7 +82,9 @@
 
 **Origem:** claude-faceless-shorts-creator
 
-**Como instalar:** Coleção local em `editor-chefe/skills/claude-faceless-shorts-creator/` (sem remote) — copie `.claude/skills/make-ai-short/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/make-ai-short/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/claude-faceless-shorts-creator`.
+
+**Pasta no repo:** `skills/formatos-sociais/make-ai-short/`
 
 ---
 
@@ -84,7 +96,9 @@
 
 **Origem:** claude-faceless-shorts-creator
 
-**Como instalar:** Coleção local em `editor-chefe/skills/claude-faceless-shorts-creator/` (sem remote) — copie `.claude/skills/make-short/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/make-short/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/claude-faceless-shorts-creator`.
+
+**Pasta no repo:** `skills/formatos-sociais/make-short/`
 
 ---
 
@@ -96,7 +110,9 @@
 
 **Origem:** claude-faceless-shorts-creator
 
-**Como instalar:** Coleção local em `editor-chefe/skills/claude-faceless-shorts-creator/` (sem remote) — copie `.claude/skills/make-vox/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/make-vox/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/claude-faceless-shorts-creator`.
+
+**Pasta no repo:** `skills/formatos-sociais/make-vox/`
 
 ---
 
@@ -108,7 +124,9 @@
 
 **Origem:** ecommerce-video-skills · [https://github.com/iart-ai/ecommerce-video-skills](https://github.com/iart-ai/ecommerce-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/ecommerce-video-skills` → copie `<repo>/skills/photo-slideshow/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/photo-slideshow/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/ecommerce-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/photo-slideshow/`
 
 ---
 
@@ -120,7 +138,9 @@
 
 **Origem:** ecommerce-video-skills · [https://github.com/iart-ai/ecommerce-video-skills](https://github.com/iart-ai/ecommerce-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/ecommerce-video-skills` → copie `<repo>/skills/product-demo-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/product-demo-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/ecommerce-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/product-demo-video/`
 
 ---
 
@@ -132,7 +152,9 @@
 
 **Origem:** ecommerce-video-skills · [https://github.com/iart-ai/ecommerce-video-skills](https://github.com/iart-ai/ecommerce-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/ecommerce-video-skills` → copie `<repo>/skills/promo-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/promo-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/ecommerce-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/promo-video/`
 
 ---
 
@@ -144,7 +166,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/newsletter-promo/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/newsletter-promo/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/newsletter-promo/`
 
 ---
 
@@ -156,7 +180,9 @@
 
 **Origem:** talking-head-skills · [https://github.com/iart-ai/talking-head-skills](https://github.com/iart-ai/talking-head-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/talking-head-skills` → copie `<repo>/skills/talking-head/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/talking-head/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/talking-head-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/talking-head/`
 
 ---
 
@@ -168,7 +194,9 @@
 
 **Origem:** text-message-video-skills · [https://github.com/iart-ai/text-message-video-skills](https://github.com/iart-ai/text-message-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/text-message-video-skills` → copie `<repo>/skills/text-message-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/text-message-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/text-message-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/text-message-animation/`
 
 ---
 
@@ -180,7 +208,9 @@
 
 **Origem:** tiktok-ig-shorts
 
-**Como instalar:** Coleção local em `editor-chefe/skills/tiktok-ig-shorts/` (sem remote) — copie `skills/kinetic-caption-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/kinetic-caption-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/tiktok-ig-shorts`.
+
+**Pasta no repo:** `skills/formatos-sociais/kinetic-caption-video/`
 
 ---
 
@@ -192,7 +222,9 @@
 
 **Origem:** tiktok-ig-shorts
 
-**Como instalar:** Coleção local em `editor-chefe/skills/tiktok-ig-shorts/` (sem remote) — copie `skills/popout-talking-head-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/popout-talking-head-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/tiktok-ig-shorts`.
+
+**Pasta no repo:** `skills/formatos-sociais/popout-talking-head-video/`
 
 ---
 
@@ -204,7 +236,9 @@
 
 **Origem:** tiktok-ig-shorts
 
-**Como instalar:** Coleção local em `editor-chefe/skills/tiktok-ig-shorts/` (sem remote) — copie `skills/social-talking-head-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/social-talking-head-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/tiktok-ig-shorts`.
+
+**Pasta no repo:** `skills/formatos-sociais/social-talking-head-video/`
 
 ---
 
@@ -216,7 +250,9 @@
 
 **Origem:** tiktok-video-skills · [https://github.com/iart-ai/tiktok-video-skills](https://github.com/iart-ai/tiktok-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/tiktok-video-skills` → copie `<repo>/skills/caption-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/caption-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/tiktok-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/caption-animation/`
 
 ---
 
@@ -228,7 +264,9 @@
 
 **Origem:** tiktok-video-skills · [https://github.com/iart-ai/tiktok-video-skills](https://github.com/iart-ai/tiktok-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/tiktok-video-skills` → copie `<repo>/skills/countdown-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/countdown-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/tiktok-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/countdown-video/`
 
 ---
 
@@ -240,7 +278,9 @@
 
 **Origem:** tiktok-video-skills · [https://github.com/iart-ai/tiktok-video-skills](https://github.com/iart-ai/tiktok-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/tiktok-video-skills` → copie `<repo>/skills/lower-thirds/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/lower-thirds/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/tiktok-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/lower-thirds/`
 
 ---
 
@@ -252,7 +292,9 @@
 
 **Origem:** tiktok-video-skills · [https://github.com/iart-ai/tiktok-video-skills](https://github.com/iart-ai/tiktok-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/tiktok-video-skills` → copie `<repo>/skills/short-form-video/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/short-form-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/tiktok-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/short-form-video/`
 
 ---
 
@@ -264,7 +306,9 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-assemble/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/video-assemble/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/video-assemble/`
 
 ---
 
@@ -276,7 +320,9 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-cut/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/video-cut/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/video-cut/`
 
 ---
 
@@ -288,7 +334,9 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-recap/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/video-recap/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/video-recap/`
 
 ---
 
@@ -300,7 +348,9 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-script/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/video-script/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/video-script/`
 
 ---
 
@@ -312,7 +362,9 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-understanding/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/video-understanding/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/video-understanding/`
 
 ---
 
@@ -324,7 +376,9 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-voiceover/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/video-voiceover/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/video-voiceover/`
 
 ---
 
@@ -336,7 +390,9 @@
 
 **Origem:** youtube-video-skills · [https://github.com/iart-ai/youtube-video-skills](https://github.com/iart-ai/youtube-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/youtube-video-skills` → copie `<repo>/skills/audiogram/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/audiogram/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/youtube-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/audiogram/`
 
 ---
 
@@ -348,5 +404,7 @@
 
 **Origem:** youtube-video-skills · [https://github.com/iart-ai/youtube-video-skills](https://github.com/iart-ai/youtube-video-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/youtube-video-skills` → copie `<repo>/skills/youtube-intro-outro/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/formatos-sociais/youtube-intro-outro/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/youtube-video-skills.
+
+**Pasta no repo:** `skills/formatos-sociais/youtube-intro-outro/`
 

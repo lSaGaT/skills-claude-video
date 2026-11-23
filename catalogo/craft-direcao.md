@@ -12,7 +12,9 @@
 
 **Origem:** OpenMontage · [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/hyperframes-creative/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/hyperframes-creative/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/craft-direcao/hyperframes-creative/`
 
 ---
 
@@ -26,7 +28,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/visual-style/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/visual-style/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/visual-style/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/visual-style/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/craft-direcao/visual-style/`
 
 ---
 
@@ -38,7 +42,9 @@
 
 **Origem:** b-roll-skills · [https://github.com/iart-ai/b-roll-skills](https://github.com/iart-ai/b-roll-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/b-roll-skills` → copie `<repo>/skills/talking-head-b-roll/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/talking-head-b-roll/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/b-roll-skills.
+
+**Pasta no repo:** `skills/craft-direcao/talking-head-b-roll/`
 
 ---
 
@@ -50,7 +56,9 @@
 
 **Origem:** beat-synced-edit
 
-**Como instalar:** Coleção local em `editor-chefe/skills/beat-synced-edit/` (sem remote) — copie `.claude/skills/beat-sync-edit/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/beat-sync-edit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/beat-synced-edit`.
+
+**Pasta no repo:** `skills/craft-direcao/beat-sync-edit/`
 
 ---
 
@@ -62,7 +70,9 @@
 
 **Origem:** freelance-motion-skills · [https://github.com/iart-ai/freelance-motion-skills](https://github.com/iart-ai/freelance-motion-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/freelance-motion-skills` → copie `<repo>/skills/brand-motion-guidelines/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/brand-motion-guidelines/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/freelance-motion-skills.
+
+**Pasta no repo:** `skills/craft-direcao/brand-motion-guidelines/`
 
 ---
 
@@ -74,7 +84,9 @@
 
 **Origem:** freelance-motion-skills · [https://github.com/iart-ai/freelance-motion-skills](https://github.com/iart-ai/freelance-motion-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/freelance-motion-skills` → copie `<repo>/skills/client-revisions/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/client-revisions/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/freelance-motion-skills.
+
+**Pasta no repo:** `skills/craft-direcao/client-revisions/`
 
 ---
 
@@ -86,7 +98,9 @@
 
 **Origem:** freelance-motion-skills · [https://github.com/iart-ai/freelance-motion-skills](https://github.com/iart-ai/freelance-motion-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/freelance-motion-skills` → copie `<repo>/skills/creative-brief/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/creative-brief/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/freelance-motion-skills.
+
+**Pasta no repo:** `skills/craft-direcao/creative-brief/`
 
 ---
 
@@ -98,7 +112,9 @@
 
 **Origem:** freelance-motion-skills · [https://github.com/iart-ai/freelance-motion-skills](https://github.com/iart-ai/freelance-motion-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/freelance-motion-skills` → copie `<repo>/skills/motion-pricing/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/motion-pricing/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/freelance-motion-skills.
+
+**Pasta no repo:** `skills/craft-direcao/motion-pricing/`
 
 ---
 
@@ -110,7 +126,9 @@
 
 **Origem:** freelance-motion-skills · [https://github.com/iart-ai/freelance-motion-skills](https://github.com/iart-ai/freelance-motion-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/freelance-motion-skills` → copie `<repo>/skills/video-delivery-specs/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/video-delivery-specs/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/freelance-motion-skills.
+
+**Pasta no repo:** `skills/craft-direcao/video-delivery-specs/`
 
 ---
 
@@ -122,7 +140,9 @@
 
 **Origem:** kinetic-typography-skills · [https://github.com/iart-ai/kinetic-typography-skills](https://github.com/iart-ai/kinetic-typography-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/kinetic-typography-skills` → copie `<repo>/skills/kinetic-typography/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/kinetic-typography/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/kinetic-typography-skills.
+
+**Pasta no repo:** `skills/craft-direcao/kinetic-typography/`
 
 ---
 
@@ -134,7 +154,9 @@
 
 **Origem:** lower-thirds-skills · [https://github.com/iart-ai/lower-thirds-skills](https://github.com/iart-ai/lower-thirds-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/lower-thirds-skills` → copie `<repo>/skills/lower-thirds/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/lower-thirds/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/lower-thirds-skills.
+
+**Pasta no repo:** `skills/craft-direcao/lower-thirds/`
 
 ---
 
@@ -146,7 +168,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/pipelines/_shared/skills/motion-design/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/motion-design/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/craft-direcao/motion-design/`
 
 ---
 
@@ -158,7 +182,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/pipelines/_shared/skills/transition-board/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/transition-board/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/craft-direcao/transition-board/`
 
 ---
 
@@ -170,7 +196,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/after-effects/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/after-effects/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/after-effects/`
 
 ---
 
@@ -182,7 +210,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/animation-principles/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/animation-principles/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/animation-principles/`
 
 ---
 
@@ -194,7 +224,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/beat-sync-editing/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/beat-sync-editing/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/beat-sync-editing/`
 
 ---
 
@@ -206,7 +238,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/color-motion/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/color-motion/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/color-motion/`
 
 ---
 
@@ -218,7 +252,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/logo-animation/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/logo-animation/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/logo-animation/`
 
 ---
 
@@ -230,7 +266,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/motion-art-direction/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/motion-art-direction/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/motion-art-direction/`
 
 ---
 
@@ -242,7 +280,9 @@
 
 **Origem:** motion-design-skills · [https://github.com/iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills)
 
-**Como instalar:** `git clone https://github.com/iart-ai/motion-design-skills` → copie `<repo>/skills/shot-composition/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/shot-composition/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/iart-ai/motion-design-skills.
+
+**Pasta no repo:** `skills/craft-direcao/shot-composition/`
 
 ---
 
@@ -254,7 +294,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/brand-intake/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/brand-intake/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/craft-direcao/brand-intake/`
 
 ---
 
@@ -266,7 +308,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/motion-brief-writer/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/motion-brief-writer/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/craft-direcao/motion-brief-writer/`
 
 ---
 
@@ -278,7 +322,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/motion-prompt-writer/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/motion-prompt-writer/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/craft-direcao/motion-prompt-writer/`
 
 ---
 
@@ -290,7 +336,9 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/reference-to-motion/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/reference-to-motion/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/craft-direcao/reference-to-motion/`
 
 ---
 
@@ -302,7 +350,9 @@
 
 **Origem:** tiktok-ig-shorts
 
-**Como instalar:** Coleção local em `editor-chefe/skills/tiktok-ig-shorts/` (sem remote) — copie `skills/anthropic-talking-head-style/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/anthropic-talking-head-style/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/tiktok-ig-shorts`.
+
+**Pasta no repo:** `skills/craft-direcao/anthropic-talking-head-style/`
 
 ---
 
@@ -314,5 +364,7 @@
 
 **Origem:** video-recap-skills · [https://github.com/zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills)
 
-**Como instalar:** `git clone https://github.com/zenstory-ai/video-recap-skills` → copie `<repo>/skills/video-reference/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/craft-direcao/video-reference/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/zenstory-ai/video-recap-skills.
+
+**Pasta no repo:** `skills/craft-direcao/video-reference/`
 

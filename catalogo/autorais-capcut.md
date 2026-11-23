@@ -12,7 +12,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-agent-ipc/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-agent-ipc/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-agent-ipc/`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-audio/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-audio/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-audio/`
 
 ---
 
@@ -36,7 +40,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-browser/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-browser/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-browser/`
 
 ---
 
@@ -48,7 +54,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-draft-core/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-draft-core/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-draft-core/`
 
 ---
 
@@ -60,7 +68,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-effects-filters/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-effects-filters/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-effects-filters/`
 
 ---
 
@@ -72,7 +82,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-media-export/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-media-export/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-media-export/`
 
 ---
 
@@ -84,7 +96,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-text-captions/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-text-captions/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-text-captions/`
 
 ---
 
@@ -96,5 +110,7 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `capcut-timeline-editing/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-capcut/capcut-timeline-editing/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-capcut/capcut-timeline-editing/`
 

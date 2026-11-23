@@ -12,7 +12,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `cel_iphone_html/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/cel_iphone_html/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/cel_iphone_html/`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `reverse-engineer-anything/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/reverse-engineer-anything/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/reverse-engineer-anything/`
 
 ---
 
@@ -36,7 +40,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `heygen-avatar/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/heygen-avatar/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/heygen-avatar/`
 
 ---
 
@@ -48,7 +54,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `heygen-translate/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/heygen-translate/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/heygen-translate/`
 
 ---
 
@@ -60,7 +68,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Copie a pasta `heygen-video/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/heygen-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/heygen-video/`
 
 ---
 
@@ -72,7 +82,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Corpo completo já publicado no repo — copie a pasta para `~/.claude/skills/`.
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/heygen-nanoclaw/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/heygen-nanoclaw/`
 
 ---
 
@@ -86,7 +98,9 @@
 
 **Também em:** reels-dev-tech — reels-dev-tech/SKILL.md
 
-**Como instalar:** Copie a pasta `reels-dev-tech/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/reels-dev-tech/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/reels-dev-tech/`
 
 ---
 
@@ -100,7 +114,9 @@
 
 **Também em:** video-campanha-politica — video-campanha-politica/SKILL.md
 
-**Como instalar:** Copie a pasta `video-campanha-politica/` deste repo para `~/.claude/skills/` (corpo completo).
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/video-campanha-politica/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/video-campanha-politica/`
 
 ---
 
@@ -112,7 +128,9 @@
 
 **Origem:** casa (autoral — nascida em produção real)
 
-**Como instalar:** Corpo completo já publicado no repo — copie a pasta para `~/.claude/skills/`.
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/text-to-speech/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente).
+
+**Pasta no repo:** `skills/autorais-pipelines/text-to-speech/`
 
 ---
 
@@ -124,5 +142,7 @@
 
 **Origem:** claude-video · [https://github.com/bradautomates/claude-video](https://github.com/bradautomates/claude-video)
 
-**Como instalar:** `git clone https://github.com/bradautomates/claude-video` → copie `<repo>/skills/watch/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/autorais-pipelines/watch/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/bradautomates/claude-video.
+
+**Pasta no repo:** `skills/autorais-pipelines/watch/`
 

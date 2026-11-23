@@ -14,7 +14,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/ffmpeg/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/ffmpeg/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/.claude/skills/ffmpeg/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/ffmpeg/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/ffmpeg/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/infra-midia/ffmpeg/`
 
 ---
 
@@ -28,7 +30,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/media-use/SKILL.md
 
-**Como instalar:** Coleção local em `editor-chefe/skills/hyperframes/` (sem remote) — copie `skills/media-use/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/media-use/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/hyperframes`.
+
+**Pasta no repo:** `skills/infra-midia/media-use/`
 
 ---
 
@@ -42,7 +46,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/playwright-recording/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/playwright-recording/SKILL.md · claude-code-video-toolkit (https://github.com/digitalsamba/claude-code-video-toolkit) — claude-code-video-toolkit/.claude/skills/playwright-recording/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/playwright-recording/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/playwright-recording/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/infra-midia/playwright-recording/`
 
 ---
 
@@ -56,7 +62,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/video-download/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/video-download/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/video-download/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/video-download/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/infra-midia/video-download/`
 
 ---
 
@@ -70,7 +78,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/video-edit/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/video-edit/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/video-edit/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/video-edit/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/infra-midia/video-edit/`
 
 ---
 
@@ -84,7 +94,9 @@
 
 **Também em:** OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.agents/skills/video-understand/SKILL.md · OpenMontage (https://github.com/calesthio/OpenMontage) — OpenMontage/.claude/skills/video-understand/SKILL.md
 
-**Como instalar:** `git clone https://github.com/calesthio/OpenMontage` → copie `<repo>/.agents/skills/video-understand/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/video-understand/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/calesthio/OpenMontage.
+
+**Pasta no repo:** `skills/infra-midia/video-understand/`
 
 ---
 
@@ -96,7 +108,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/moviepy/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/moviepy/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/infra-midia/moviepy/`
 
 ---
 
@@ -108,7 +122,9 @@
 
 **Origem:** claude-code-video-toolkit · [https://github.com/digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)
 
-**Como instalar:** `git clone https://github.com/digitalsamba/claude-code-video-toolkit` → copie `<repo>/.claude/skills/runpod/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/runpod/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/digitalsamba/claude-code-video-toolkit.
+
+**Pasta no repo:** `skills/infra-midia/runpod/`
 
 ---
 
@@ -120,7 +136,9 @@
 
 **Origem:** cut-video
 
-**Como instalar:** Coleção local em `editor-chefe/skills/cut-video/` (sem remote) — copie `SKILL.md/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/cut-video/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: `editor-chefe/skills/cut-video`.
+
+**Pasta no repo:** `skills/infra-midia/cut-video/`
 
 ---
 
@@ -132,7 +150,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/harness/skills/assets/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/assets/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/infra-midia/assets/`
 
 ---
 
@@ -144,7 +164,9 @@
 
 **Origem:** mortiflix-oss · [https://github.com/GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss)
 
-**Como instalar:** `git clone https://github.com/GTKottman/mortiflix-oss` → copie `<repo>/pipelines/_shared/skills/final-pass/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/final-pass/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/GTKottman/mortiflix-oss.
+
+**Pasta no repo:** `skills/infra-midia/final-pass/`
 
 ---
 
@@ -156,5 +178,7 @@
 
 **Origem:** motion-graphics-skills · [https://github.com/charlie947/motion-graphics-skills](https://github.com/charlie947/motion-graphics-skills)
 
-**Como instalar:** `git clone https://github.com/charlie947/motion-graphics-skills` → copie `<repo>/skills/reel-export/` para `~/.claude/skills/`
+**Como instalar:** Copie a pasta `skills/infra-midia/reel-export/` deste repo para `~/.claude/skills/` (ou `.agents/skills/`, conforme seu agente). Corpo de origem: https://github.com/charlie947/motion-graphics-skills.
+
+**Pasta no repo:** `skills/infra-midia/reel-export/`
 
